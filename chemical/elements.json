@@ -406,19 +406,17 @@
       "name": "Scandium",
       "weight": "44.955",
       "schema": {
-        "schema": {
-          "ptable": {
-            "stroke": "black",
-            "bg": "#fbc5b6"
-          },
-          "jmol": {
-            "stroke": "black",
-            "bg": "E6E6E6"
-          },
-          "grey": {
-            "stroke": "white",
-            "bg": "2B2B2B"
-          }
+        "ptable": {
+          "stroke": "black",
+          "bg": "#fbc5b6"
+        },
+        "jmol": {
+          "stroke": "black",
+          "bg": "E6E6E6"
+        },
+        "grey": {
+          "stroke": "white",
+          "bg": "2B2B2B"
         }
       }
     },
