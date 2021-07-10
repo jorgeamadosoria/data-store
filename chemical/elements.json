@@ -1,0 +1,2128 @@
+{
+  "elements": [
+    {
+      "number": "1",
+      "symbol": "H",
+      "name": "Hydrogen",
+      "weight": "1.008",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFFFFF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "010101"
+      }
+    },
+    {
+      "number": "2",
+      "symbol": "He",
+      "name": "Helium",
+      "weight": "4.0026",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D9FFFF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "030303"
+      }
+    },
+    {
+      "number": "3",
+      "symbol": "Li",
+      "name": "Lithium",
+      "weight": "6.94",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "CC80FF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "050505"
+      }
+    },
+    {
+      "number": "4",
+      "symbol": "Be",
+      "name": "Beryllium",
+      "weight": "9.0121",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C2FF00"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "070707"
+      }
+    },
+    {
+      "number": "5",
+      "symbol": "B",
+      "name": "Boron",
+      "weight": "10.81",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFB5B5"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "090909"
+      }
+    },
+    {
+      "number": "6",
+      "symbol": "C",
+      "name": "Carbon",
+      "weight": "12.011",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "909090"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "0B0B0B"
+      }
+    },
+    {
+      "number": "7",
+      "symbol": "N",
+      "name": "Nitrogen",
+      "weight": "14.007",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "3050F8"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "0F0F0F"
+      }
+    },
+    {
+      "number": "8",
+      "symbol": "O",
+      "name": "Oxygen",
+      "weight": "15.999",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FF0D0D"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "111111"
+      }
+    },
+    {
+      "number": "9",
+      "symbol": "F",
+      "name": "Fluorine",
+      "weight": "18.998",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "90E050"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "131313"
+      }
+    },
+    {
+      "number": "10",
+      "symbol": "Ne",
+      "name": "Neon",
+      "weight": "20.179",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "B3E3F5"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "151515"
+      }
+    },
+    {
+      "number": "11",
+      "symbol": "Na",
+      "name": "Sodium",
+      "weight": "22.989",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "AB5CF2"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "171717"
+      }
+    },
+    {
+      "number": "12",
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "weight": "24.305",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "8AFF00"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "191919"
+      }
+    },
+    {
+      "number": "13",
+      "symbol": "Al",
+      "name": "Aluminium",
+      "weight": "26.981",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "BFA6A6"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "1B1B1B"
+      }
+    },
+    {
+      "number": "14",
+      "symbol": "Si",
+      "name": "Silicon",
+      "weight": "28.085",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "F0C8A0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "1D1D1D"
+      }
+    },
+    {
+      "number": "15",
+      "symbol": "P",
+      "name": "Phosphorus",
+      "weight": "30.973",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FF8000"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "1F1F1F"
+      }
+    },
+    {
+      "number": "16",
+      "symbol": "S",
+      "name": "Sulfur",
+      "weight": "32.06",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFFF30"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "212121"
+      }
+    },
+    {
+      "number": "17",
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "weight": "35.45",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "1FF01F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "232323"
+      }
+    },
+    {
+      "number": "18",
+      "symbol": "Ar",
+      "name": "Argon",
+      "weight": "39.95",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "80D1E3"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "252525"
+      }
+    },
+    {
+      "number": "19",
+      "symbol": "K",
+      "name": "Potassium",
+      "weight": "39.098",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "8F40D4"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "272727"
+      }
+    },
+    {
+      "number": "20",
+      "symbol": "Ca",
+      "name": "Calcium",
+      "weight": "40.078",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "3DFF00"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "292929"
+      }
+    },
+    {
+      "number": "21",
+      "symbol": "Sc",
+      "name": "Scandium",
+      "weight": "44.955",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "E6E6E6"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "2B2B2B"
+      }
+    },
+    {
+      "number": "22",
+      "symbol": "Ti",
+      "name": "Titanium",
+      "weight": "47.867",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "BFC2C7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "2D2D2D"
+      }
+    },
+    {
+      "number": "23",
+      "symbol": "V",
+      "name": "Vanadium",
+      "weight": "50.9415",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "A6A6AB"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "2F2F2F"
+      }
+    },
+    {
+      "number": "24",
+      "symbol": "Cr",
+      "name": "Chromium",
+      "weight": "51.996",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "8A99C7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "313131"
+      }
+    },
+    {
+      "number": "25",
+      "symbol": "Mn",
+      "name": "Manganese",
+      "weight": "54.938",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "9C7AC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "333333"
+      }
+    },
+    {
+      "number": "26",
+      "symbol": "Fe",
+      "name": "Iron",
+      "weight": "55.845",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "E06633"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "353535"
+      }
+    },
+    {
+      "number": "27",
+      "symbol": "Co",
+      "name": "Cobalt",
+      "weight": "58.933",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "F090A0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "373737"
+      }
+    },
+    {
+      "number": "28",
+      "symbol": "Ni",
+      "name": "Nickel",
+      "weight": "58.693",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "50D050"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "393939"
+      }
+    },
+    {
+      "number": "29",
+      "symbol": "Cu",
+      "name": "Copper",
+      "weight": "63.546",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C88033"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "3B3B3B"
+      }
+    },
+    {
+      "number": "30",
+      "symbol": "Zn",
+      "name": "Zinc",
+      "weight": "65.38",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "7D80B0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "3D3D3D"
+      }
+    },
+    {
+      "number": "31",
+      "symbol": "Ga",
+      "name": "Gallium",
+      "weight": "69.723",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C28F8F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "3F3F3F"
+      }
+    },
+    {
+      "number": "32",
+      "symbol": "Ge",
+      "name": "Germanium",
+      "weight": "72.630",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "668F8F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "414141"
+      }
+    },
+    {
+      "number": "33",
+      "symbol": "As",
+      "name": "Arsenic",
+      "weight": "74.921",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "BD80E3"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "434343"
+      }
+    },
+    {
+      "number": "34",
+      "symbol": "Se",
+      "name": "Selenium",
+      "weight": "78.971",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFA100"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "454545"
+      }
+    },
+    {
+      "number": "35",
+      "symbol": "Br",
+      "name": "Bromine",
+      "weight": "79.904",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "A62929"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "474747"
+      }
+    },
+    {
+      "number": "36",
+      "symbol": "Kr",
+      "name": "Krypton",
+      "weight": "83.798",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "5CB8D1"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "494949"
+      }
+    },
+    {
+      "number": "37",
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "weight": "85.467",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "702EB0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "4B4B4B"
+      }
+    },
+    {
+      "number": "38",
+      "symbol": "Sr",
+      "name": "Strontium",
+      "weight": "87.62",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00FF00"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "4D4D4D"
+      }
+    },
+    {
+      "number": "39",
+      "symbol": "Y",
+      "name": "Yttrium",
+      "weight": "88.905",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "94FFFF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "4F4F4F"
+      }
+    },
+    {
+      "number": "40",
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "weight": "91.224",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "94E0E0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "515151"
+      }
+    },
+    {
+      "number": "41",
+      "symbol": "Nb",
+      "name": "Niobium",
+      "weight": "92.906",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "73C2C9"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "535353"
+      }
+    },
+    {
+      "number": "42",
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "weight": "95.95",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "54B5B5"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "555555"
+      }
+    },
+    {
+      "number": "43",
+      "symbol": "Tc",
+      "name": "Technetium",
+      "weight": "98",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "3B9E9E"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "575757"
+      }
+    },
+    {
+      "number": "44",
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "weight": "101.07",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "248F8F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "595959"
+      }
+    },
+    {
+      "number": "45",
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "weight": "102.90",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "0A7D8C"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "5B5B5B"
+      }
+    },
+    {
+      "number": "46",
+      "symbol": "Pd",
+      "name": "Palladium",
+      "weight": "106.42",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "006985"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "5D5D5D"
+      }
+    },
+    {
+      "number": "47",
+      "symbol": "Ag",
+      "name": "Silver",
+      "weight": "107.86",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C0C0C0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "5F5F5F"
+      }
+    },
+    {
+      "number": "48",
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "weight": "112.41",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFD98F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "616161"
+      }
+    },
+    {
+      "number": "49",
+      "symbol": "In",
+      "name": "Indium",
+      "weight": "114.81",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "A67573"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "636363"
+      }
+    },
+    {
+      "number": "50",
+      "symbol": "Sn",
+      "name": "Tin",
+      "weight": "118.71",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "668080"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "656565"
+      }
+    },
+    {
+      "number": "51",
+      "symbol": "Sb",
+      "name": "Antimony",
+      "weight": "121.76",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "9E63B5"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "676767"
+      }
+    },
+    {
+      "number": "52",
+      "symbol": "Te",
+      "name": "Tellurium",
+      "weight": "127.60",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D47A00"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "696969"
+      }
+    },
+    {
+      "number": "53",
+      "symbol": "I",
+      "name": "Iodine",
+      "weight": "126.90",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#8bed8c"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "940094"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "6B6B6B"
+      }
+    },
+    {
+      "number": "54",
+      "symbol": "Xe",
+      "name": "Xenon",
+      "weight": "131.29",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "429EB0"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "6D6D6D"
+      }
+    },
+    {
+      "number": "55",
+      "symbol": "Cs",
+      "name": "Caesium",
+      "weight": "132.90",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "57178F"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "6F6F6F"
+      }
+    },
+    {
+      "number": "56",
+      "symbol": "Ba",
+      "name": "Barium",
+      "weight": "137.32",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00C900"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "717171"
+      }
+    },
+    {
+      "number": "57",
+      "symbol": "La",
+      "name": "Lanthanum",
+      "weight": "138.90",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "70D4FF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "737373"
+      }
+    },
+    {
+      "number": "58",
+      "symbol": "Ce",
+      "name": "Cerium",
+      "weight": "140.11",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFFFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "757575"
+      }
+    },
+    {
+      "number": "59",
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "weight": "140.90",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D9FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "777777"
+      }
+    },
+    {
+      "number": "60",
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "weight": "144.24",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C7FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "797979"
+      }
+    },
+    {
+      "number": "61",
+      "symbol": "Pm",
+      "name": "Promethium",
+      "weight": "145",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "A3FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "7B7B7B"
+      }
+    },
+    {
+      "number": "62",
+      "symbol": "Sm",
+      "name": "Samarium",
+      "weight": "150.36",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "8FFFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "7D7D7D"
+      }
+    },
+    {
+      "number": "63",
+      "symbol": "Eu",
+      "name": "Europium",
+      "weight": "151.96",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "61FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "7F7F7F"
+      }
+    },
+    {
+      "number": "64",
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "weight": "157.25",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "45FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "838383"
+      }
+    },
+    {
+      "number": "65",
+      "symbol": "Tb",
+      "name": "Terbium",
+      "weight": "158.92",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "30FFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "858585"
+      }
+    },
+    {
+      "number": "66",
+      "symbol": "Dy",
+      "name": "Dysprosium",
+      "weight": "162.50",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "1FFFC7"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "8B8B8B"
+      }
+    },
+    {
+      "number": "67",
+      "symbol": "Ho",
+      "name": "Holmium",
+      "weight": "164.93",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00FF9C"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "8D8D8D"
+      }
+    },
+    {
+      "number": "68",
+      "symbol": "Er",
+      "name": "Erbium",
+      "weight": "167.25",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00E675"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "919191"
+      }
+    },
+    {
+      "number": "69",
+      "symbol": "Tm",
+      "name": "Thulium",
+      "weight": "168.93",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00D452"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "979797"
+      }
+    },
+    {
+      "number": "70",
+      "symbol": "Yb",
+      "name": "Ytterbium",
+      "weight": "173.04",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00BF38"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "9B9B9B"
+      }
+    },
+    {
+      "number": "71",
+      "symbol": "Lu",
+      "name": "Lutetium",
+      "weight": "174.96",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e8d19b"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00AB24"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "9D9D9D"
+      }
+    },
+    {
+      "number": "72",
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "weight": "178.49",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "4DC2FF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "A1A1A1"
+      }
+    },
+    {
+      "number": "73",
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "weight": "180.94",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "4DA6FF"
+      },
+      "grey": {
+        "stroke": "white",
+        "bg": "A3A3A3"
+      }
+    },
+    {
+      "number": "74",
+      "symbol": "W",
+      "name": "Tungsten",
+      "weight": "183.84",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "2194D6"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "A7A7A7"
+      }
+    },
+    {
+      "number": "75",
+      "symbol": "Re",
+      "name": "Rhenium",
+      "weight": "186.20",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "267DAB"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "A9A9A9"
+      }
+    },
+    {
+      "number": "76",
+      "symbol": "Os",
+      "name": "Osmium",
+      "weight": "190.23",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "266696"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "ABABAB"
+      }
+    },
+    {
+      "number": "77",
+      "symbol": "Ir",
+      "name": "Iridium",
+      "weight": "192.21",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "175487"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "ADADAD"
+      }
+    },
+    {
+      "number": "78",
+      "symbol": "Pt",
+      "name": "Platinum",
+      "weight": "195.08",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D0D0E0"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "AFAFAF"
+      }
+    },
+    {
+      "number": "79",
+      "symbol": "Au",
+      "name": "Gold",
+      "weight": "196.96",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "FFD123"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "B1B1B1"
+      }
+    },
+    {
+      "number": "80",
+      "symbol": "Hg",
+      "name": "Mercury",
+      "weight": "200.59",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "B8B8D0"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "B3B3B3"
+      }
+    },
+    {
+      "number": "81",
+      "symbol": "Tl",
+      "name": "Thallium",
+      "weight": "204.38",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "A6544D"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "B5B5B5"
+      }
+    },
+    {
+      "number": "82",
+      "symbol": "Pb",
+      "name": "Lead",
+      "weight": "207.2",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "575961"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "B7B7B7"
+      }
+    },
+    {
+      "number": "83",
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "weight": "208.98",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "9E4FB5"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "B9B9B9"
+      }
+    },
+    {
+      "number": "84",
+      "symbol": "Po",
+      "name": "Polonium",
+      "weight": "209",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#abe0eb"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "AB5C00"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "BBBBBB"
+      }
+    },
+    {
+      "number": "85",
+      "symbol": "At",
+      "name": "Astatine",
+      "weight": "210",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#9ee5d4"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "754F45"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "BDBDBD"
+      }
+    },
+    {
+      "number": "86",
+      "symbol": "Rn",
+      "name": "Radon",
+      "weight": "222",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#e5bee4"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "428296"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "BFBFBF"
+      }
+    },
+    {
+      "number": "87",
+      "symbol": "Fr",
+      "name": "Francium",
+      "weight": "223",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eace5d"
+      },
+      "jmol": {
+        "stroke": "white",
+        "bg": "420066"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "C1C1C1"
+      }
+    },
+    {
+      "number": "88",
+      "symbol": "Ra",
+      "name": "Radium",
+      "weight": "226",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f1f165"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "007D00"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "C3C3C3"
+      }
+    },
+    {
+      "number": "89",
+      "symbol": "Ac",
+      "name": "Actinium",
+      "weight": "227",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "70ABFA"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "C5C5C5"
+      }
+    },
+    {
+      "number": "90",
+      "symbol": "Th",
+      "name": "Thorium",
+      "weight": "232.03",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00BAFF"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "C7C7C7"
+      }
+    },
+    {
+      "number": "91",
+      "symbol": "Pa",
+      "name": "Protactinium",
+      "weight": "231.03",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "00A1FF"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "C9C9C9"
+      }
+    },
+    {
+      "number": "92",
+      "symbol": "U",
+      "name": "Uranium",
+      "weight": "238.02",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "008FFF"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "CBCBCB"
+      }
+    },
+    {
+      "number": "93",
+      "symbol": "Np",
+      "name": "Neptunium",
+      "weight": "237",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "0080FF"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "CDCDCD"
+      }
+    },
+    {
+      "number": "94",
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "weight": "244",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "006BFF"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "CFCFCF"
+      }
+    },
+    {
+      "number": "95",
+      "symbol": "Am",
+      "name": "Americium",
+      "weight": "243",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "545CF2"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "D1D1D1"
+      }
+    },
+    {
+      "number": "96",
+      "symbol": "Cm",
+      "name": "Curium",
+      "weight": "247",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "785CE3"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "D3D3D3"
+      }
+    },
+    {
+      "number": "97",
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "weight": "247",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "8A4FE3"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "D5D5D5"
+      }
+    },
+    {
+      "number": "98",
+      "symbol": "Cf",
+      "name": "Californium",
+      "weight": "251",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "A136D4"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "D7D7D7"
+      }
+    },
+    {
+      "number": "99",
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "weight": "252",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "B31FD4"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "D9D9D9"
+      }
+    },
+    {
+      "number": "100",
+      "symbol": "Fm",
+      "name": "Fermium",
+      "weight": "257",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "B31FBA"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "DBDBDB"
+      }
+    },
+    {
+      "number": "101",
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "weight": "258",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "B30DA6"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "DDDDDD"
+      }
+    },
+    {
+      "number": "102",
+      "symbol": "No",
+      "name": "Nobelium",
+      "weight": "259",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "BD0D87"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "DFDFDF"
+      }
+    },
+    {
+      "number": "103",
+      "symbol": "Lr",
+      "name": "Lawrencium",
+      "weight": "266",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#f4ccda"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "C70066"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "E1E1E1"
+      }
+    },
+    {
+      "number": "104",
+      "symbol": "Rf",
+      "name": "Rutherfordium",
+      "weight": "267",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "CC0059"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "E3E3E3"
+      }
+    },
+    {
+      "number": "105",
+      "symbol": "Db",
+      "name": "Dubnium",
+      "weight": "268",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D1004F"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "E5E5E5"
+      }
+    },
+    {
+      "number": "106",
+      "symbol": "Sg",
+      "name": "Seaborgium",
+      "weight": "269",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "D90045"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "E7E7E7"
+      }
+    },
+    {
+      "number": "107",
+      "symbol": "Bh",
+      "name": "Bohrium",
+      "weight": "270",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "E00038"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "E9E9E9"
+      }
+    },
+    {
+      "number": "108",
+      "symbol": "Hs",
+      "name": "Hassium",
+      "weight": "270",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#fbc5b6"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "E6002E"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "EBEBEB"
+      }
+    },
+    {
+      "number": "109",
+      "symbol": "Mt",
+      "name": "Meitnerium",
+      "weight": "278",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "EDEDED"
+      }
+    },
+    {
+      "number": "110",
+      "symbol": "Ds",
+      "name": "Darmstadtium",
+      "weight": "281",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "EFEFEF"
+      }
+    },
+    {
+      "number": "111",
+      "symbol": "Rg",
+      "name": "Roentgenium",
+      "weight": "282",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "F1F1F1"
+      }
+    },
+    {
+      "number": "112",
+      "symbol": "Cn",
+      "name": "Copernicium",
+      "weight": "285",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "F3F3F3"
+      }
+    },
+    {
+      "number": "113",
+      "symbol": "Nh",
+      "name": "Nihonium",
+      "weight": "286",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "F5F5F5"
+      }
+    },
+    {
+      "number": "114",
+      "symbol": "Fl",
+      "name": "Flerovium",
+      "weight": "289",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "F7F7F7"
+      }
+    },
+    {
+      "number": "115",
+      "symbol": "Mc",
+      "name": "Moscovium",
+      "weight": "290",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "F9F9F9"
+      }
+    },
+    {
+      "number": "116",
+      "symbol": "Lv",
+      "name": "Livermorium",
+      "weight": "293",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "FBFBFB"
+      }
+    },
+    {
+      "number": "117",
+      "symbol": "Ts",
+      "name": "Tennessine",
+      "weight": "294",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "FDFDFD"
+      }
+    },
+    {
+      "number": "118",
+      "symbol": "Og",
+      "name": "Oganesson",
+      "weight": "294",
+      "ptable": {
+        "stroke": "black",
+        "bg": "#eeeeee"
+      },
+      "jmol": {
+        "stroke": "black",
+        "bg": "EB0026"
+      },
+      "grey": {
+        "stroke": "black",
+        "bg": "FFFFFF"
+      }
+    }
+  ]
+}
