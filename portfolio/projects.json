@@ -17,11 +17,17 @@
         "GitHub",
         "Heroku"
       ],
-      "links": {
-        "site": "https://hanoi-demo.herokuapp.com/",
-        "medium (ES)": "https://blog.nearsoftjobs.com/torres-de-hanoi-un-algoritmo-cl%C3%A1sico-26a722c58539",
-        "repo": "https://github.com/jorgeamadosoria/hanoi-demo"
-      }
+      "links": [
+        { "name": "site", "url": "https://hanoi-demo.herokuapp.com/" },
+        {
+          "name": "medium",
+          "url": "https://blog.nearsoftjobs.com/torres-de-hanoi-un-algoritmo-cl%C3%A1sico-26a722c58539"
+        },
+        {
+          "name": "repo",
+          "url": "https://github.com/jorgeamadosoria/hanoi-demo"
+        }
+      ]
     },
     {
       "title": "Chemical Words",
@@ -39,10 +45,13 @@
         "Github",
         "Github Pages"
       ],
-      "links": {
-        "site": "https://jorgeamadosoria.info/Chemical/index.html",
-        "repo": "https://github.com/jorgeamadosoria/Chemical"
-      }
+      "links": [
+        {
+          "name": "site",
+          "url": "https://jorgeamadosoria.info/Chemical/index.html"
+        },
+        { "name": "repo", "url": "https://github.com/jorgeamadosoria/Chemical" }
+      ]
     },
     {
       "title": "My Résumé",
@@ -61,10 +70,16 @@
         "Github",
         "Github pages"
       ],
-      "links": {
-        "repo": "https://jorgeamadosoria.info/#/flat",
-        "site": "https://github.com/jorgeamadosoria/jorgeamadosoria.github.io"
-      }
+      "links": [
+        {
+          "name": "repo",
+          "url": "https://jorgeamadosoria.info/#/flat"
+        },
+        {
+          "name": "site",
+          "url": "https://github.com/jorgeamadosoria/jorgeamadosoria.github.io"
+        }
+      ]
     },
     {
       "title": "Arbol genealógico",
@@ -83,10 +98,13 @@
         "VanillaJS",
         "Github"
       ],
-      "links": {
-        "site": "http://www.familiasoria.org/",
-        "repo": "https://github.com/jorgeamadosoria/familytree"
-      }
+      "links": [
+        { "name": "site", "url": "http://www.familiasoria.org/" },
+        {
+          "name": "repo",
+          "url": "https://github.com/jorgeamadosoria/familytree"
+        }
+      ]
     },
     {
       "title": "Spaced",
@@ -111,10 +129,10 @@
         "Tomcat",
         "Postgres"
       ],
-      "links": {
-        "repo": "https://github.com/jorgeamadosoria/spaced",
-        "site": "https://spacedrept.herokuapp.com/"
-      }
+      "links": [
+        { "name": "repo", "url": "https://github.com/jorgeamadosoria/spaced" },
+        { "name": "site", "url": "https://spacedrept.herokuapp.com/" }
+      ]
     },
     {
       "title": "Media Cubana",
@@ -130,9 +148,12 @@
         "Google Sheets",
         "VK"
       ],
-      "links": {
-        "site": "https://sites.google.com/view/media-cubana/home"
-      }
+      "links": [
+        {
+          "name": "site",
+          "url": "https://sites.google.com/view/media-cubana/home"
+        }
+      ]
     },
     {
       "title": "SIIPOL",
@@ -157,9 +178,12 @@
         "Hibernate",
         "Tomcat"
       ],
-      "links": {
-        "info": "https://tramitesyconsultas.net/venezuela/siipol-que-es-y-como-funciona/"
-      }
+      "links": [
+        {
+          "name": "info",
+          "url": "https://tramitesyconsultas.net/venezuela/siipol-que-es-y-como-funciona/"
+        }
+      ]
     },
     {
       "title": "Dfa",
@@ -169,9 +193,12 @@
       "year": "2016",
       "description": "Deterministic Finite Automata designed mainly for String recognition, but generic enough to recognize any kind of object sequence. It also accepts callbacks to be executed on each transition and a memento object to keep track of transitions and callback results. This is a byproduct of the Facundia project.",
       "tech": ["Java"],
-      "links": {
-        "repo": "https://github.com/jorgeamadosoria/currentcy,https://github.com/jorgeamadosoria/dfa"
-      }
+      "links": [
+        {
+          "name": "repo",
+          "url": "https://github.com/jorgeamadosoria/currentcy,https://github.com/jorgeamadosoria/dfa"
+        }
+      ]
     },
     {
       "title": "Portfolio",
@@ -210,10 +237,13 @@
         "Tomcat",
         "Postgres"
       ],
-      "links": {
-        "site": "https://web.archive.org/web/20190723175537/http://coj.uci.cu/index.xhtml",
-        "repo": "https://github.com/dovier/coj-web"
-      }
+      "links": [
+        {
+          "name": "site",
+          "url": "https://web.archive.org/web/20190723175537/http://coj.uci.cu/index.xhtml"
+        },
+        { "name": "repo", "url": "https://github.com/dovier/coj-web" }
+      ]
     },
     {
       "title": "Facundia Demo",
@@ -235,10 +265,13 @@
         "Maven",
         "Spectre Framework"
       ],
-      "links": {
-        "repo": "https://github.com/jorgeamadosoria/facundia-demo",
-        "site": "https://facundia-demo.herokuapp.com/"
-      }
+      "links": [
+        {
+          "name": "repo",
+          "url": "https://github.com/jorgeamadosoria/facundia-demo"
+        },
+        { "name": "site", "url": "https://facundia-demo.herokuapp.com/" }
+      ]
     },
     {
       "title": "Facundia",
@@ -248,9 +281,9 @@
       "year": "2020",
       "description": "Librería para manipulación de palabras en español. Esta librería es un simple jar sin acceso a APIs REST, aplicaciones existentes o bases de datos internas (excepto listas de excepciones, inevitables cuando se trata del español), que puede ser incluida en cualquier aplicación Java que use un gestor de dependencias.",
       "tech": ["Java", "Maven"],
-      "links": {
-        "repo": "https://github.com/jorgeamadosoria/facundia"
-      }
+      "links": [
+        { "name": "repo", "url": "https://github.com/jorgeamadosoria/facundia" }
+      ]
     },
     {
       "title": "Recetario",
@@ -260,9 +293,12 @@
       "year": "2020",
       "description": "A simple static web site to gather cooking recipes we have made. It's purpose is simple organization of these recipes that we have forgotten a couple of times before, to prevent them for being forgotten again.",
       "tech": ["Google Sites"],
-      "links": {
-        "site": "https://sites.google.com/view/recetario-soria/recetas?authuser=0"
-      }
+      "links": [
+        {
+          "name": "site",
+          "url": "https://sites.google.com/view/recetario-soria/recetas?authuser=0"
+        }
+      ]
     },
     {
       "title": "Monty Hall",
@@ -272,11 +308,17 @@
       "year": "2020",
       "description": "Monty Hall is a web demo for the classic problem of the three door selection. It was done as a resource for a corresponding Medium article.",
       "tech": ["Html5", "Bootstrap", "CSS3", "Chart.js", "jQuery"],
-      "links": {
-        "site": "https://monty-hall-demo.herokuapp.com/",
-        "repo": "https://github.com/jorgeamadosoria/monty-hall-demo",
-        "medium (es)": "https://blog.nearsoftjobs.com/the-monty-hall-problem-9046995793d9"
-      }
+      "links": [
+        { "name": "site", "url": "https://monty-hall-demo.herokuapp.com/" },
+        {
+          "name": "repo",
+          "url": "https://github.com/jorgeamadosoria/monty-hall-demo"
+        },
+        {
+          "name": "medium",
+          "url": "https://blog.nearsoftjobs.com/the-monty-hall-problem-9046995793d9"
+        }
+      ]
     }
   ]
 }
