@@ -1,0 +1,282 @@
+{
+  "projects": [
+    {
+      "title": "Hanoi Towers",
+      "logo": "https://hanoi-demo.herokuapp.com/logo.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2021",
+      "description": "Demo HTML page for Medium article",
+      "tech": [
+        "jquery",
+        "html5",
+        "bootstrap",
+        "InteractJS",
+        "CSS3",
+        "VanillaJS",
+        "GitHub",
+        "Heroku"
+      ],
+      "links": {
+        "site": "https://hanoi-demo.herokuapp.com/",
+        "medium (ES)": "https://blog.nearsoftjobs.com/torres-de-hanoi-un-algoritmo-cl%C3%A1sico-26a722c58539",
+        "repo": "https://github.com/jorgeamadosoria/hanoi-demo"
+      }
+    },
+    {
+      "title": "Chemical Words",
+      "logo": "https://i.ibb.co/gSGsKv9/logo.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2021",
+      "description": "Simple web page to write words using chemical elements symbols, as shown in the periodic table. If necessary, fake symbols are generated to complete the words.",
+      "tech": [
+        "jquery",
+        "html5",
+        "css3",
+        "Font Awesome",
+        "VanillaJS",
+        "Github",
+        "Github Pages"
+      ],
+      "links": {
+        "site": "https://jorgeamadosoria.info/Chemical/index.html",
+        "repo": "https://github.com/jorgeamadosoria/Chemical"
+      }
+    },
+    {
+      "title": "My Résumé",
+      "logo": "https://portfolio-jasr.herokuapp.com/#",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2021",
+      "description": "Live CV presented in 4 distinct visual styles, as well as allowing PDF generation. Linked to a custom domain for presentation to prospective employers. It supersedes the old live CV developed in 2018 and discontinued in 2019, originally developed in the MEAN stack. Angular is definitely not my cup of javascript, React is easier to handler (and I was forced into it because of work, so there is that too).",
+      "tech": [
+        "typescript",
+        "html5",
+        "bootstrap",
+        "css3",
+        "font awesome",
+        "React.js",
+        "Github",
+        "Github pages"
+      ],
+      "links": {
+        "repo": "https://jorgeamadosoria.info/#/flat",
+        "site": "https://github.com/jorgeamadosoria/jorgeamadosoria.github.io"
+      }
+    },
+    {
+      "title": "Arbol genealógico",
+      "logo": "https://i.ibb.co/TMJgVxQ/image.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2019",
+      "description": "Family tree builder. Front end only SPA with only VanillaJS, Cytoscape.js and jQuery for basic data massaging and canvas draw of the tree. The data for the family tree is supplied by hand in a custom format in a separate json family, and this is later parsed for the UI by cytoscape, with minor manipulations with jQuery to allow for multiple family trees in the same family.",
+      "tech": [
+        "tippy.js",
+        "cytoscape.js",
+        "jquery",
+        "html5",
+        "bootstrap",
+        "font awesome",
+        "VanillaJS",
+        "Github"
+      ],
+      "links": {
+        "site": "http://www.familiasoria.org/",
+        "repo": "https://github.com/jorgeamadosoria/familytree"
+      }
+    },
+    {
+      "title": "Spaced",
+      "logo": "https://i.ibb.co/7WzsWD7/french-language-course112602.png",
+      "type": "web",
+      "status": "ACTIVE",
+      "year": "2018",
+      "description": "small project that aims to use the Spaced Repetition approach to memorization to help me learn French verbs and vocabulary.",
+      "tech": [
+        "Java",
+        "Spring Framework",
+        "HTML5",
+        "UnderscoreJS",
+        "Spring Boot",
+        "CSS3",
+        "Font Awesome",
+        "Spring Security",
+        "Github",
+        "Heroku",
+        "Maven",
+        "Spectre Framework",
+        "Tomcat",
+        "Postgres"
+      ],
+      "links": {
+        "repo": "https://github.com/jorgeamadosoria/spaced",
+        "site": "https://spacedrept.herokuapp.com/"
+      }
+    },
+    {
+      "title": "Media Cubana",
+      "logo": "https://i.ibb.co/vjnCwbq/image.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2018",
+      "description": "Free catalogue of Cuban movies and documentaries, hosted in Youtube, VK or other online resources. While it is not a comprehensive catalogue, the idea is for it to contain at least a reference to every movie or feature length documentary we can find, even if we don't actually have the actual media published. It does not contain much in the way of coding, rather being just a Google Site that pulls data from a Google sheet, hosts videos in VK and Youtube and presents them in an Awesome Table enabled HTML5 page.",
+      "tech": [
+        "Awesome table",
+        "Google Drive",
+        "Google Sites",
+        "Google Sheets",
+        "VK"
+      ],
+      "links": {
+        "site": "https://sites.google.com/view/media-cubana/home"
+      }
+    },
+    {
+      "title": "SIIPOL",
+      "logo": "https://i.ibb.co/RCXsDnp/image.png",
+      "type": "web",
+      "status": "ARCHIVED",
+      "year": "2006",
+      "description": "ERP project for the CICPC, the scientific Venezuelan police. For obvious reasons, this project is not available from outside CICPC's internal network. This one was developed during my tenure in UCI, as part of a large team of developers (dozens of people). Specifically, I was the designed architure for middleware and integration, later changing roles to lead architect and support engineer level III when the project finished active development. CICPC was in development / support from 2006 to 2012, at which time it was officially left in the hands of the technology division of CICPC.",
+      "tech": [
+        "Oracle",
+        "Java",
+        "jQuery",
+        "Spring Framework",
+        "CSS3",
+        "Spring Security",
+        "Spring Data",
+        "Subversion",
+        "JSP",
+        "JSF",
+        "Jenkins",
+        "Maven",
+        "Hibernate",
+        "Tomcat"
+      ],
+      "links": {
+        "info": "https://tramitesyconsultas.net/venezuela/siipol-que-es-y-como-funciona/"
+      }
+    },
+    {
+      "title": "Dfa",
+      "logo": "https://i.ibb.co/DtMPnrJ/81607-jar-file.png",
+      "type": "library",
+      "status": "ARCHIVED",
+      "year": "2016",
+      "description": "Deterministic Finite Automata designed mainly for String recognition, but generic enough to recognize any kind of object sequence. It also accepts callbacks to be executed on each transition and a memento object to keep track of transitions and callback results. This is a byproduct of the Facundia project.",
+      "tech": ["Java"],
+      "links": {
+        "repo": "https://github.com/jorgeamadosoria/currentcy,https://github.com/jorgeamadosoria/dfa"
+      }
+    },
+    {
+      "title": "Portfolio",
+      "logo": "https://i.ibb.co/J3qGRqw/image.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2018",
+      "description": "Catalogue application to keep track of all noteworthy programming efforts, however small. Projects here range from the professionally dedicated to the personally POCs made for training, educational or self improvement.",
+      "tech": ["Html5", "CSS3", "React.js", "Bootstrap", "Font Awesome"],
+      "links": {
+        "repo": "https://github.com/jorgeamadosoria/portfolio",
+        "site": "https://jorgeamadosoria.github.io/portfolio"
+      }
+    },
+    {
+      "title": "Caribbean Online Judge",
+      "logo": "https://i.ibb.co/71mW3Yh/image.png",
+      "type": "web",
+      "status": "ARCHIVED",
+      "year": "2012",
+      "description": "My 2008 undergraduate thesis consisted of a reversed engineered Chinese Online Judge, which we called the Xtreme Online Judge. It was deployed in my university (UCI) and served there as the basis for several programming competitions. Around 2010, the Xtreme Online Judge gave way to the Caribbean Online Judge, which was a technologically superior proposition on the same features and domain covered by the Xtreme. The COJ then presided the creation of programming contests in all relevant universities of the country, and ultimate culminated in the creation of the Caribbean Region of the ACM ICPC, of which the COJ was the underpin. I was involved as a developer, architect, evangelist and support engineer of the Xtreme and COJ from 2007 - 2010, and then from 2012 to 2015. The COJ stopped being actively developed in 2016. In 2018 its codebase was made public in github for everyone to fork it if they choose to. As of 2019, everyone related to the COJ and the ICPC is gone from the UCI, and the status of the COJ instance at UCI is uncertain, most likely retired.",
+      "tech": [
+        "jquery",
+        "html5",
+        "bootstrap",
+        "Spring framework",
+        "CSS3",
+        "Font Awesome",
+        "Spring Security",
+        "Subversion",
+        "JSP",
+        "Github",
+        "Maven",
+        "Hibernate",
+        "Apache Tiles",
+        "Tomcat",
+        "Postgres"
+      ],
+      "links": {
+        "site": "https://web.archive.org/web/20190723175537/http://coj.uci.cu/index.xhtml",
+        "repo": "https://github.com/dovier/coj-web"
+      }
+    },
+    {
+      "title": "Facundia Demo",
+      "logo": "https://i.ibb.co/hRxm4M5/image.png",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2020",
+      "description": "Inflector is a simple web app that uses Facundia to make simple syntactic manipulations to words in Spanish. The only value of Inflector is to give an UI to Facundia, and as such does not include any ORM activity nor any unique features of its own. It's more a demo for Facundia that anything else.",
+      "tech": [
+        "jquery",
+        "html5",
+        "spring boot",
+        "css3",
+        "font awesome",
+        "vanillaJS",
+        "Github",
+        "Tomcat",
+        "Heroku",
+        "Maven",
+        "Spectre Framework"
+      ],
+      "links": {
+        "repo": "https://github.com/jorgeamadosoria/facundia-demo",
+        "site": "https://facundia-demo.herokuapp.com/"
+      }
+    },
+    {
+      "title": "Facundia",
+      "logo": "https://i.ibb.co/DtMPnrJ/81607-jar-file.png",
+      "type": "library",
+      "status": "ARCHIVED",
+      "year": "2020",
+      "description": "Librería para manipulación de palabras en español. Esta librería es un simple jar sin acceso a APIs REST, aplicaciones existentes o bases de datos internas (excepto listas de excepciones, inevitables cuando se trata del español), que puede ser incluida en cualquier aplicación Java que use un gestor de dependencias.",
+      "tech": ["Java", "Maven"],
+      "links": {
+        "repo": "https://github.com/jorgeamadosoria/facundia"
+      }
+    },
+    {
+      "title": "Recetario",
+      "logo": "https://i.ibb.co/kXVg5nB/cocinero.jpg",
+      "type": "web",
+      "status": "ACTIVE",
+      "year": "2020",
+      "description": "A simple static web site to gather cooking recipes we have made. It's purpose is simple organization of these recipes that we have forgotten a couple of times before, to prevent them for being forgotten again.",
+      "tech": ["Google Sites"],
+      "links": {
+        "site": "https://sites.google.com/view/recetario-soria/recetas?authuser=0"
+      }
+    },
+    {
+      "title": "Monty Hall",
+      "logo": "https://portfolio-jasr.herokuapp.com/#",
+      "type": "web",
+      "status": "PRODUCTION",
+      "year": "2020",
+      "description": "Monty Hall is a web demo for the classic problem of the three door selection. It was done as a resource for a corresponding Medium article.",
+      "tech": ["Html5", "Bootstrap", "CSS3", "Chart.js", "jQuery"],
+      "links": {
+        "site": "https://monty-hall-demo.herokuapp.com/",
+        "repo": "https://github.com/jorgeamadosoria/monty-hall-demo",
+        "medium (es)": "https://blog.nearsoftjobs.com/the-monty-hall-problem-9046995793d9"
+      }
+    }
+  ]
+}

@@ -17,7 +17,8 @@
       "language": "EN",
       "type": "web",
       "relevance": "standard"
-    },{
+    },
+    {
       "url": "https://facundia-demo.herokuapp.com/",
       "name": "Facundia Demo",
       "description": "Web demo for Facundia, a Java library built to conjugate verbs following Spanish language grammar rules.",
@@ -273,7 +274,10 @@
       "toDate": "2015-07-01",
       "name": "Developer",
       "entity": "ACM ICPC Caribbean Region",
-      "reference": { "value": "http://coj.uci.cu", "relevance": "trivial" },
+      "reference": {
+        "value": "https://web.archive.org/web/20190723175537/http://coj.uci.cu/index.xhtml",
+        "relevance": "trivial"
+      },
       "description": {
         "value": "Worked on the Caribbean Online Judge, a software evaluation tool for competitive programming which was the first of its kind in Cuba and the Caribbean. Over the years this work evolved and ultimately allowed the creation of the ACM ICPC Caribbean Region.",
         "relevance": "trivial"
