@@ -18,13 +18,13 @@
         "Heroku"
       ],
       "links": [
-        { "name": "site", "url": "https://hanoi-demo.herokuapp.com/" },
+        { "name": "heroku", "url": "https://hanoi-demo.herokuapp.com/" },
         {
           "name": "medium",
           "url": "https://blog.nearsoftjobs.com/torres-de-hanoi-un-algoritmo-cl%C3%A1sico-26a722c58539"
         },
         {
-          "name": "repo",
+          "name": "github",
           "url": "https://github.com/jorgeamadosoria/hanoi-demo"
         }
       ]
@@ -47,10 +47,10 @@
       ],
       "links": [
         {
-          "name": "site",
+          "name": "github",
           "url": "https://jorgeamadosoria.info/Chemical/index.html"
         },
-        { "name": "repo", "url": "https://github.com/jorgeamadosoria/Chemical" }
+        { "name": "github", "url": "https://github.com/jorgeamadosoria/Chemical" }
       ]
     },
     {
@@ -72,11 +72,11 @@
       ],
       "links": [
         {
-          "name": "repo",
+          "name": "github",
           "url": "https://jorgeamadosoria.info/#/flat"
         },
         {
-          "name": "site",
+          "name": "github",
           "url": "https://github.com/jorgeamadosoria/jorgeamadosoria.github.io"
         }
       ]
@@ -99,9 +99,9 @@
         "Github"
       ],
       "links": [
-        { "name": "site", "url": "http://www.familiasoria.org/" },
+        { "name": "heroku", "url": "http://www.familiasoria.org/" },
         {
-          "name": "repo",
+          "name": "github",
           "url": "https://github.com/jorgeamadosoria/familytree"
         }
       ]
@@ -130,8 +130,8 @@
         "Postgres"
       ],
       "links": [
-        { "name": "repo", "url": "https://github.com/jorgeamadosoria/spaced" },
-        { "name": "site", "url": "https://spacedrept.herokuapp.com/" }
+        { "name": "github", "url": "https://github.com/jorgeamadosoria/spaced" },
+        { "name": "heroku", "url": "https://spacedrept.herokuapp.com/" }
       ]
     },
     {
@@ -150,7 +150,7 @@
       ],
       "links": [
         {
-          "name": "site",
+          "name": "google",
           "url": "https://sites.google.com/view/media-cubana/home"
         }
       ]
@@ -180,7 +180,7 @@
       ],
       "links": [
         {
-          "name": "info",
+          "name": "html",
           "url": "https://tramitesyconsultas.net/venezuela/siipol-que-es-y-como-funciona/"
         }
       ]
@@ -195,8 +195,8 @@
       "tech": ["Java"],
       "links": [
         {
-          "name": "repo",
-          "url": "https://github.com/jorgeamadosoria/currentcy,https://github.com/jorgeamadosoria/dfa"
+          "name": "github",
+          "url": "https://github.com/jorgeamadosoria/dfa"
         }
       ]
     },
@@ -209,8 +209,8 @@
       "description": "Catalogue application to keep track of all noteworthy programming efforts, however small. Projects here range from the professionally dedicated to the personally POCs made for training, educational or self improvement.",
       "tech": ["Html5", "CSS3", "React.js", "Bootstrap", "Font Awesome"],
       "links": [ {
-        "repo": "https://github.com/jorgeamadosoria/portfolio",
-        "site": "https://jorgeamadosoria.github.io/portfolio"
+        "github": "https://github.com/jorgeamadosoria/portfolio",
+        "html": "https://jorgeamadosoria.github.io/portfolio"
       } ]
     },
     {
@@ -239,10 +239,10 @@
       ],
       "links": [
         {
-          "name": "site",
+          "name": "html",
           "url": "https://web.archive.org/web/20190723175537/http://coj.uci.cu/index.xhtml"
         },
-        { "name": "repo", "url": "https://github.com/dovier/coj-web" }
+        { "name": "github", "url": "https://github.com/dovier/coj-web" }
       ]
     },
     {
@@ -267,10 +267,10 @@
       ],
       "links": [
         {
-          "name": "repo",
+          "name": "github",
           "url": "https://github.com/jorgeamadosoria/facundia-demo"
         },
-        { "name": "site", "url": "https://facundia-demo.herokuapp.com/" }
+        { "name": "heroku", "url": "https://facundia-demo.herokuapp.com/" }
       ]
     },
     {
@@ -282,7 +282,7 @@
       "description": "Librería para manipulación de palabras en español. Esta librería es un simple jar sin acceso a APIs REST, aplicaciones existentes o bases de datos internas (excepto listas de excepciones, inevitables cuando se trata del español), que puede ser incluida en cualquier aplicación Java que use un gestor de dependencias.",
       "tech": ["Java", "Maven"],
       "links": [
-        { "name": "repo", "url": "https://github.com/jorgeamadosoria/facundia" }
+        { "name": "github", "url": "https://github.com/jorgeamadosoria/facundia" }
       ]
     },
     {
@@ -295,7 +295,7 @@
       "tech": ["Google Sites"],
       "links": [
         {
-          "name": "site",
+          "name": "google",
           "url": "https://sites.google.com/view/recetario-soria/recetas?authuser=0"
         }
       ]
@@ -309,9 +309,9 @@
       "description": "Monty Hall is a web demo for the classic problem of the three door selection. It was done as a resource for a corresponding Medium article.",
       "tech": ["Html5", "Bootstrap", "CSS3", "Chart.js", "jQuery"],
       "links": [
-        { "name": "site", "url": "https://monty-hall-demo.herokuapp.com/" },
+        { "name": "heroku", "url": "https://monty-hall-demo.herokuapp.com/" },
         {
-          "name": "repo",
+          "name": "github",
           "url": "https://github.com/jorgeamadosoria/monty-hall-demo"
         },
         {
