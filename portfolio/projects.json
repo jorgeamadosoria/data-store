@@ -21,7 +21,8 @@
         { 
           "type": "heroku", 
           "name": "site",
-          "url": "https://hanoi-demo.herokuapp.com/" },
+          "url": "https://hanoi-demo.herokuapp.com/" 
+        },
         {
           "type": "medium",
           "name": "article",
@@ -88,7 +89,7 @@
         },
         {
           "type": "github",
-          "name": "site",
+          "name": "repo",
           "url": "https://github.com/jorgeamadosoria/jorgeamadosoria.github.io"
         }
       ]
@@ -240,7 +241,7 @@
         {
           "type":"github",
           "name": "repo",
-          "url":"https://github.com/jorgeamadosoria/portfolio",
+          "url":"https://github.com/jorgeamadosoria/portfolio"
         },
         {
           "type":"html",
@@ -282,7 +283,8 @@
         { 
           "type": "github",
           "name": "repo",
-          "url": "https://github.com/dovier/coj-web" }
+          "url": "https://github.com/dovier/coj-web" 
+        }
       ]
     },
     {
@@ -314,7 +316,8 @@
         { 
           "type": "heroku", 
           "name": "site", 
-          "url": "https://facundia-demo.herokuapp.com/" }
+          "url": "https://facundia-demo.herokuapp.com/" 
+        }
       ]
     },
     {
@@ -329,7 +332,8 @@
         { 
           "type": "github", 
           "name": "repo",
-          "url": "https://github.com/jorgeamadosoria/facundia" }
+          "url": "https://github.com/jorgeamadosoria/facundia" 
+        }
       ]
     },
     {
