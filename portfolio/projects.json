@@ -208,10 +208,10 @@
       "year": "2018",
       "description": "Catalogue application to keep track of all noteworthy programming efforts, however small. Projects here range from the professionally dedicated to the personally POCs made for training, educational or self improvement.",
       "tech": ["Html5", "CSS3", "React.js", "Bootstrap", "Font Awesome"],
-      "links": {
+      "links": [ {
         "repo": "https://github.com/jorgeamadosoria/portfolio",
         "site": "https://jorgeamadosoria.github.io/portfolio"
-      }
+      } ]
     },
     {
       "title": "Caribbean Online Judge",
