@@ -357,7 +357,7 @@
       "description": "Monty Hall is a web demo for the classic problem of the three door selection. It was done as a resource for a corresponding Medium article.",
       "tech": ["Html5", "Bootstrap", "CSS3", "Chart.js", "jQuery"],
       "links": [
-        { "name": "heroku", "url": "https://monty-hall-demo.herokuapp.com/" },
+        { "type": "heroku", "name": "site", "url": "https://monty-hall-demo.herokuapp.com/" },
         {
           "type": "github",
           "name": "repo",
