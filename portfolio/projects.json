@@ -256,7 +256,7 @@
       "type": "web",
       "status": "ARCHIVED",
       "year": "2012",
-      "description": "My 2008 undergraduate thesis. The COJ eventually led to the creation of the Caribbean Region of the ACM-ICPC. I was involved as developer, architect, evangelist and support engineer from 2007 to 2010, and again from 2012 to 2015. The COJ stopped development in 2016, was publicly released on Github in 2018, and taken down in 2019.",
+      "description": "My 2008 undergraduate thesis, it eventually led to the creation of the Caribbean Region of the ACM-ICPC. I was involved as developer, evangelist and support from 2007 to 2010, and again from 2012 to 2015. The COJ stopped development in 2016, was released to Github in 2018, and taken down in 2019.",
       "tech": [
         "jquery",
         "html5",
