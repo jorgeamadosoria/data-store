@@ -95,7 +95,7 @@
       ]
     },
     {
-      "title": "Arbol genealógico",
+      "title": "Family tree",
       "logo": "https://i.ibb.co/TMJgVxQ/image.png",
       "type": "web",
       "status": "PRODUCTION",
@@ -161,12 +161,12 @@
       ]
     },
     {
-      "title": "Media Cubana",
+      "title": "Cuban Media",
       "logo": "https://i.ibb.co/vjnCwbq/image.png",
       "type": "web",
       "status": "PRODUCTION",
       "year": "2018",
-      "description": "Free catalogue of Cuban movies and documentaries, hosted in Youtube, VK or other online resources. While it is not a comprehensive catalogue, the idea is for it to contain at least a reference to every movie or feature length documentary we can find, even if we don't actually have the actual media published. It does not contain much in the way of coding, rather being just a Google Site that pulls data from a Google sheet, hosts videos in VK and Youtube and presents them in an Awesome Table enabled HTML5 page.",
+      "description": "Free, non comprehensive catalogue of Cuban movies and documentaries. The idea is to have at least a reference to every movie or feature length documentary we can find, even if we don't have it yet. It is just a Google Site pulling data from a Google sheet and linking to videos in VK and Youtube.",
       "tech": [
         "Awesome table",
         "Google Drive",
