@@ -166,7 +166,7 @@
       "type": "web",
       "status": "PRODUCTION",
       "year": "2018",
-      "description": "Free, non comprehensive catalogue of Cuban movies and documentaries. The idea is to have at least a reference to every movie or feature length documentary we can find, even if we don't have it yet. It is just a Google Site pulling data from a Google sheet and linking to videos in VK and Youtube.",
+      "description": "Free, non comprehensive catalogue of Cuban media. The idea is to have at least a reference to every movie or documentary we can find. It's just a Google Site pulling from a Google Sheet and linking to videos in VK and Youtube",
       "tech": [
         "Awesome table",
         "Google Drive",
@@ -188,7 +188,7 @@
       "type": "web",
       "status": "ARCHIVED",
       "year": "2006",
-      "description": "An ERP made for the CICPC, the scientific Venezuelan police. It's not publicly available outside CICPC's network. It was developed during my tenure in UCI, as part of a team of dozens of developers. I performed the roles of architect and support engineer level III from 2006 to 2012, at which time the project was transferred to the technology division of CICPC.",
+      "description": "An ERP made for the CICPC, the Venezuelan scientific police. It was developed during my tenure in UCI, as part of a team of dozens of developers. I served as an architect and support engineer level III from 2006 to 2012. It's not available outside CICPC's network.",
       "tech": [
         "Oracle",
         "Java",
