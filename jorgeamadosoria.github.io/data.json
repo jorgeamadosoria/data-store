@@ -11,6 +11,14 @@
   },
   "showcase": [
     {
+      "url": "https://simpleicons.org",
+      "name": "Simple Icons",
+      "description": "Free collection of brand icons",
+      "language": "EN",
+      "type": "web",
+      "relevance": "essential"
+    },
+    {
       "url": "https://jorgeamadosoria.info/Chemical/index.html",
       "name": "Chemical Words",
       "description": "Web page to represent words with chemical elements as shown in the periodic table.",
@@ -166,9 +174,35 @@
       "name": "React",
       "level": "junior",
       "relevance": "essential"
+    },
+    {
+      "name": "Jest",
+      "level": "junior",
+      "relevance": "standard"
+    },
+    {
+      "name": "Pug.js",
+      "level": "junior",
+      "relevance": "trivial"
     }
   ],
   "entries": [
+    {
+      "fromDate": "2021-07-01",
+      "toDate": null,
+      "name": "Web Developer",
+      "entity": "SimpleIcons",
+      "reference": {
+        "value": "https://simpleicons.org",
+        "relevance": "essential"
+      },
+      "description": {
+        "value": "An open source project to create and maintain a collection of icons for popular brands and technologies, freely available to all.",
+        "relevance": "trivial"
+      },
+      "type": "volunteering",
+      "relevance": "essential"
+    },
     {
       "fromDate": "2019-11-30",
       "toDate": null,
