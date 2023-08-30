@@ -141,6 +141,11 @@
       "relevance": "essential"
     },
     {
+      "name": "Cypress",
+      "level": "junior",
+      "relevance": "standard"
+    },
+    {
       "name": "PostgresSQL",
       "level": "intermediate",
       "relevance": "standard"
