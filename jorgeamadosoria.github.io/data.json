@@ -16,7 +16,7 @@
       "description": "Free collection of brand icons",
       "language": "EN",
       "type": "web",
-      "relevance": "essential"
+      "relevance": "standard"
     },
     {
       "url": "https://jorgeamadosoria.info/Chemical/index.html",
@@ -69,7 +69,7 @@
     {
       "type": "portfolio",
       "name": "Portfolio",
-      "url": "https://portfolio-jasr.herokuapp.com/",
+      "url": "https://jorgeamadosoria.info/portfolio/",
       "relevance": "essential"
     },
     {
@@ -194,14 +194,14 @@
       "entity": "SimpleIcons",
       "reference": {
         "value": "https://simpleicons.org",
-        "relevance": "essential"
+        "relevance": "trivial"
       },
       "description": {
         "value": "An open source project to create and maintain a collection of icons for popular brands and technologies, freely available to all.",
         "relevance": "trivial"
       },
       "type": "volunteering",
-      "relevance": "essential"
+      "relevance": "trivial"
     },
     {
       "fromDate": "2019-11-30",
@@ -213,7 +213,7 @@
         "relevance": "essential"
       },
       "description": {
-        "value": "React + Typescript frontend development and Java backend microservice development for TripAdvisor as part of a staff augmentation contract with Encora",
+        "value": "React, Typescript, Java development for Encora clients. Clients: TripAdvisor and ImagineLearning",
         "relevance": "trivial"
       },
       "type": "work",
